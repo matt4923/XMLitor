@@ -1,0 +1,11 @@
+D:\_SOURCE_CODE\!PROJECTS\XMLitor\XMLitor\bin\Release\XMLitor.exe
+D:\_SOURCE_CODE\!PROJECTS\XMLitor\XMLitor\bin\Release\XMLitor.pdb
+D:\_SOURCE_CODE\!PROJECTS\XMLitor\XMLitor\bin\Release\XMLitor.xml
+D:\_SOURCE_CODE\!PROJECTS\XMLitor\XMLitor\obj\Release\ResolveAssemblyReference.cache
+D:\_SOURCE_CODE\!PROJECTS\XMLitor\XMLitor\obj\Release\XMLitor.Form1.resources
+D:\_SOURCE_CODE\!PROJECTS\XMLitor\XMLitor\obj\Release\XMLitor.Resources.resources
+D:\_SOURCE_CODE\!PROJECTS\XMLitor\XMLitor\obj\Release\XMLitor.vbproj.GenerateResource.Cache
+D:\_SOURCE_CODE\!PROJECTS\XMLitor\XMLitor\obj\Release\XMLitor.exe
+D:\_SOURCE_CODE\!PROJECTS\XMLitor\XMLitor\obj\Release\XMLitor.xml
+D:\_SOURCE_CODE\!PROJECTS\XMLitor\XMLitor\obj\Release\XMLitor.pdb
+D:\_SOURCE_CODE\!PROJECTS\XMLitor\XMLitor\obj\Release\XMLitor.AboutBox1.resources
